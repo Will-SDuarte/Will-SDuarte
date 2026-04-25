@@ -43,7 +43,6 @@
 
 - 🎵 Curto rap, trap e pagode
 - 🎮 Gosto de games e animes
-- 🍔 Fã de hambúrguer
 
 ---
 
