@@ -26,13 +26,6 @@
 
 ---
 
-## 📌 Projeto em destaque
-
-### 🌱 SAP (Smart Automated Plant)
-Sistema de irrigação automatizado com Arduino desenvolvido como TCC.
-
----
-
 ## 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-SDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
