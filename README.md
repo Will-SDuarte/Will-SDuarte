@@ -39,16 +39,6 @@ Sistema de irrigação automatizado com Arduino desenvolvido como TCC.
 
 ---
 
-## 🐍 Contribuições
-
-A animação abaixo é gerada automaticamente a partir do meu gráfico de contribuições no GitHub.
-
-![snake gif](https://github.com/Will-SDuarte/Will-SDuarte/blob/output/github-contribution-grid-snake.svg)
-
-> Caso a animação não apareça imediatamente, ela pode estar sendo atualizada pela workflow e ficar disponível novamente após a próxima execução.
-
----
-
 ## 📫 Contato
 
 - 📧 Email: williandasilvaduarte10@gmail.com  
